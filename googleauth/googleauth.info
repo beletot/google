@@ -1,0 +1,9 @@
+; $Id: googleauth.info,v 1.1 2007/07/13 18:22:22 ssnider Exp $
+name = Google Auth
+description = "Allows Drupal to act as a provider of Single-Sign-on to Google Apps"
+package = Google Apps
+; Information added by drupal.org packaging script on 2007-07-13
+version = "5.x-1.0"
+project = "googleauth"
+datestamp = "1184353813"
+
